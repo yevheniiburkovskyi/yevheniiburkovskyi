@@ -1,39 +1,34 @@
-# Eugene Burkovskiy
-***
-### Contacts📞
-***
-- **Location:** Kyiv, Ukraine
-- **Phone:** +380 66-575-54-22
-- **E-mail:** gradam2001@gmail.com
-- **Telegram:** https://t.me/eugene_burkovskiy
-***
-### About me😵
-***
-I really like to work with value and the feeling that I am doing some useful project gives me the most to keep moving in the same direction. One of my main principles in life is continuous development in the field that I have chosen for myself. Quite unexpectedly for me, having tried programming, I realized how interesting this area is for me, and to be honest, I devote most of my life to this particular field of activity. I want to become a professional and do my job efficiently and effectively.
-***
-### Skills💻
-***
-- HTML
-- CSS/SASS
-- Bootstrap
-- JavaScript (Native)
-- Gulp
-- Webpack
-- Git
-***
-### Experience💼
-***
-- Quality Control Department of medical equipment at UTAS Co.
-- Several pet projects on java script and layout
-***
-### Education🎓
-***
-- NTU of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”. 151 "automation and computer integration technologies"
-- Udemy
-- learn.javascript.ru
-- YouTube
-- RS school
-***
-### English💬
-***
-**B2**
+<h1 align="center">Hi there, I'm Eugene <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%09ff00ef&lines=Front-End+developer">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+</p>
+<h2 align="center">Technologies</h1>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents" display="block"/>
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jquery,jest" display="block"/>
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=webpack,vite,gulp" display="block"/>
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=git,netlify,firebase" display="block"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+</p>
+<h2 align="center">Statistics</h1>
+<p align="center" display="flex">
+  <img src="https://www.codewars.com/users/eugeneburkovskiy/badges/large">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugeneburkovskiy&theme=2077">
+</p>
+<p align="center" display="flex">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eugeneburkovskiy&theme=2077">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eugeneburkovskiy&theme=2077">
+</p>
