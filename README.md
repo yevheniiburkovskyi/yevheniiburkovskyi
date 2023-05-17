@@ -7,10 +7,10 @@
 </p>
 <h2 align="center">Technologies</h1>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents" display="block"/>
+   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents,materialui" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jquery,jest" display="block"/>
+   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jquery,jest,graphql" display="block"/>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=webpack,vite,gulp" display="block"/>
