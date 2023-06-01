@@ -16,7 +16,14 @@
    <img src="https://skillicons.dev/icons?i=webpack,vite,gulp" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=git,netlify,firebase" display="block"/>
+   <img src="https://skillicons.dev/icons?i=git,netlify,firebase,apollo" display="block"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+</p>
+<h2 align="center">Currently learning</h1>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=nextjs,tailwind" display="block"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
