@@ -23,7 +23,7 @@
 </p>
 <h2 align="center">Currently learning</h1>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nextjs,tailwind" display="block"/>
+   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs" display="block"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
