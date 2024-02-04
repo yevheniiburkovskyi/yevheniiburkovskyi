@@ -36,9 +36,5 @@
   <img src="https://www.codewars.com/users/eugeneburkovskiy/badges/large">
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugeneburkovskiy&theme=chartreuse_dark">
-</p>
-<p align="center" display="flex">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eugeneburkovskiy&theme=chartreuse_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eugeneburkovskiy&theme=chartreuse_dark">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
