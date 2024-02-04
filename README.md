@@ -19,14 +19,14 @@
    <img src="https://skillicons.dev/icons?i=git,netlify,firebase,apollo" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=androidstudio,postman" display="block"/>
+   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman" display="block"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
 <h2 align="center">Currently learning</h1>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" display="block"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres" display="block"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
