@@ -7,7 +7,7 @@
 </p>
 <h2 align="center">Technologies</h1>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents,materialui" display="block"/>
+   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents,materialui,tailwind" display="block"/>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jquery,jest,graphql" display="block"/>
@@ -26,7 +26,7 @@
 </p>
 <h2 align="center">Currently learning</h1>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs" display="block"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" display="block"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
