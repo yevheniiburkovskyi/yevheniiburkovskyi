@@ -10,7 +10,10 @@
    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,styledcomponents,materialui,tailwind" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jquery,jest,graphql" display="block"/>
+   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,jest,graphql" display="block"/>
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=gatsby,nextjs" display="block"/>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=nodejs" display="block"/>
@@ -19,7 +22,7 @@
    <img src="https://skillicons.dev/icons?i=webpack,vite,gulp" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=git,netlify,firebase,apollo" display="block"/>
+   <img src="https://skillicons.dev/icons?i=git,netlify,firebase,apollo,sentry" display="block"/>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman" display="block"/>
