@@ -37,10 +37,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
-<h2 align="center">Statistics</h1>
-<p align="center" display="flex">
-  <img src="https://www.codewars.com/users/eugeneburkovskiy/badges/large">
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
-</p>
