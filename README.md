@@ -16,7 +16,7 @@
    <img src="https://skillicons.dev/icons?i=gatsby,nextjs" display="block"/>
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs" display="block"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,sqlite" display="block"/>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=webpack,vite,gulp" display="block"/>
@@ -26,14 +26,4 @@
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman" display="block"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
-</p>
-<h2 align="center">Currently learning</h1>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=express,nestjs,postgres,sqlite" display="block"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
